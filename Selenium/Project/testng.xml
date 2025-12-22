@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRMProject">
+    <test name="SeleniumProject">
+        <classes>
+            <class name="CRMProject.LandingPage" />
+            <class name="CRMProject.LoginCRM" />
+            <class name="CRMProject.NavigationMenu" />
+            <class name="CRMProject.salesLeadPopUp" />
+            <class name="CRMProject.TraversingTableMenu" />
+            <class name="CRMProject.TraversingTableMenu2" />
+        </classes>
+    </test>
+</suite>
